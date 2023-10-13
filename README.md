@@ -1,6 +1,6 @@
 # Cha-khamu
 
-###Simple website made with html, css, bootstrap
+### Simple website made with html, css, bootstrap
 
 
 
